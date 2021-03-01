@@ -1,0 +1,3 @@
+Mean: 121
+Median: 33
+Standard Deviation: 200
